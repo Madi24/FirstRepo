@@ -1,2 +1,5 @@
 Hello
 This is the notes file of my first repo!
+Added a note from the CLI
+add1
+add2
