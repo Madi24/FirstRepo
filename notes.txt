@@ -1,0 +1,2 @@
+Hello
+This is the notes file of my first repo!
